@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloade
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**quant_resume_EN.tex
-(./quant_resume_EN.tex
+**actuary_resume_FR.tex
+(./actuary_resume_FR.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/home/amd_raizen/texmf/tex/latex/mytemplates/amdresume.cls
@@ -791,50 +791,50 @@ LaTeX Font Warning: Font shape `T1/cmss/m/up' undefined
 
 \store@toks=\toks38
 ))
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 19
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 16
 .
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-(./quant_resume_EN.aux)
-\openout1 = `quant_resume_EN.aux'.
+(./actuary_resume_FR.aux)
+\openout1 = `actuary_resume_FR.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for LSB/skaknew/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for LSF/skaknew/m/n on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for LSB/skaknew/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for LSF/skaknew/m/n on input line 16.
 LaTeX Font Info:    Trying to load font information for LSF+skaknew on input li
-ne 19.
+ne 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsfskaknew.fd
 File: lsfskaknew.fd 2006/03/31 v1.0 Chess font definitions
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for LSI/skaknew/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for LSI/skaknew/m/n on input line 16.
 LaTeX Font Info:    Trying to load font information for LSI+skaknew on input li
-ne 19.
+ne 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsiskaknew.fd
 File: lsiskaknew.fd 2006/03/31 v1.0 Chess font definitions
 )
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    ... okay on input line 16.
 \big@size=\dimen284
 
 *geometry* driver: auto-detecting
@@ -893,82 +893,86 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 19.
+Package hyperref Info: Link coloring ON on input line 16.
 
-(./quant_resume_EN.out) (./quant_resume_EN.out)
+(./actuary_resume_FR.out) (./actuary_resume_FR.out)
 \@outlinefile=\write4
-\openout4 = `quant_resume_EN.out'.
+\openout4 = `actuary_resume_FR.out'.
 
-<AMD.png, id=91, 381.67593pt x 370.38374pt>
+<AMD.png, id=95, 381.67593pt x 370.38374pt>
 File: AMD.png Graphic file (type png)
 <use AMD.png>
-Package pdftex.def Info: AMD.png  used on input line 24.
+Package pdftex.def Info: AMD.png  used on input line 21.
 (pdftex.def)             Requested size: 113.80928pt x 110.43777pt.
 
-Overfull \hbox (1.99998pt too wide) in paragraph at lines 25--26
+Overfull \hbox (1.99998pt too wide) in paragraph at lines 22--23
 [][] 
  []
 
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 27.
+ 23.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 27.
+ 23.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 27.
+ 23.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 27.
+ 23.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
-7.
+3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3
-1.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 38.
 
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 39.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 46.
 
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
-LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> n
-ot available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 39.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
-nput line 41.
 
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)
-Overfull \hbox (7.69695pt too wide) in paragraph at lines 20--47
-[]$[]$  $[]$ 
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\cleaders' on input line 47.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 47.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hss' on input line 47.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hss' on input line 47.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 47.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -1019,88 +1023,68 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hfill' on input line 61.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 67.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cleaders' on input line 68.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 68.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hss' on input line 68.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hss' on input line 68.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 68.
-
-
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 76.
+(hyperref)                than one, level fixed on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cleaders' on input line 76.
+(hyperref)                removing `\cleaders' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 76.
+(hyperref)                removing `\hbox' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hss' on input line 76.
+(hyperref)                removing `\hss' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hss' on input line 76.
+(hyperref)                removing `\hss' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 76.
+(hyperref)                removing `\hfill' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cleaders' on input line 82.
+(hyperref)                removing `\cleaders' on input line 75.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 82.
+(hyperref)                removing `\hbox' on input line 75.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hss' on input line 82.
+(hyperref)                removing `\hss' on input line 75.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hss' on input line 82.
+(hyperref)                removing `\hss' on input line 75.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 82.
+(hyperref)                removing `\hfill' on input line 75.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cleaders' on input line 88.
+(hyperref)                removing `\cleaders' on input line 80.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 88.
+(hyperref)                removing `\hbox' on input line 80.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hss' on input line 88.
+(hyperref)                removing `\hss' on input line 80.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hss' on input line 88.
+(hyperref)                removing `\hss' on input line 80.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 80.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -1108,59 +1092,100 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 97.
+(hyperref)                removing `\cleaders' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cleaders' on input line 98.
+(hyperref)                removing `\hbox' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 98.
+(hyperref)                removing `\hss' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hss' on input line 98.
+(hyperref)                removing `\hss' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hss' on input line 98.
+(hyperref)                removing `\hfill' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 98.
+(hyperref)                removing `\hfill' on input line 94.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 103.
+(hyperref)                removing `\cleaders' on input line 95.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cleaders' on input line 104.
+(hyperref)                removing `\hbox' on input line 95.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 104.
+(hyperref)                removing `\hss' on input line 95.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hss' on input line 104.
+(hyperref)                removing `\hss' on input line 95.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hss' on input line 104.
+(hyperref)                removing `\hfill' on input line 95.
+
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
+nput line 105.
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
+ input line 106.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
+LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> n
+ot available
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
+n input line 106.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
+nput line 108.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)
+Overfull \hbox (1.29662pt too wide) in paragraph at lines 125--128
+[]\T1/ptm/b/n/10.95 Sciences Ac-tu-ar-ielles : \T1/ptm/m/n/10.95 As-sur-ance no
+n-
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 104.
+Overfull \hbox (1.27489pt too wide) in paragraph at lines 128--131
+\T1/ptm/m/n/10.95 risques, Tar-i-fi-ca-tion de dérivés, Pro-duits
+ []
 
+
+Overfull \hbox (5.34866pt too wide) in paragraph at lines 128--131
+\T1/ptm/m/n/10.95 à revenu fixe et mod-éli-sa-tion de la courbe
+ []
+
+
+Overfull \hbox (6.027pt too wide) in paragraph at lines 131--133
+[]\T1/ptm/b/n/10.95 Analyse Statis-tique : \T1/ptm/m/n/10.95 Ré-gres-sion, Prév
+i-
+ []
+
+
+Overfull \hbox (4.48407pt too wide) in paragraph at lines 133--134
+[]\T1/ptm/b/n/10.95 Langages de Pro-gram-ma-tion : \T1/ptm/m/n/10.95 Python,
+ []
+
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on i
+nput line 143.
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
 st/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/f
 ontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawe
 some5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome
-5/fa5free0.enc} <./AMD.png>] (./quant_resume_EN.aux)
+5/fa5free0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5f
+ree3.enc} <./AMD.png>] (./actuary_resume_FR.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1169,26 +1194,27 @@ L3 programming layer <2024-01-22>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `quant_resume_EN.out' has not changed.
-(rerunfilecheck)             Checksum: 2A146C4BB209CD7D2E7A436FB3FC32F2;5249.
+Package rerunfilecheck Info: File `actuary_resume_FR.out' has not changed.
+(rerunfilecheck)             Checksum: 917D1928C861EC6B9156AB9770F80449;5358.
  ) 
 Here is how much of TeX's memory you used:
- 27280 strings out of 474222
- 511904 string characters out of 5748732
- 1948975 words of memory out of 5000000
- 49055 multiletter control sequences out of 15000+600000
- 589513 words of font info for 76 fonts, out of 8000000 for 9000
+ 27469 strings out of 474222
+ 515667 string characters out of 5748732
+ 1957975 words of memory out of 5000000
+ 49236 multiletter control sequences out of 15000+600000
+ 592788 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,10n,121p,569b,1094s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,10n,121p,514b,1094s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
 ands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5
-/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/time
+/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/s
+kaknew/SkakNew-Figurine.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/time
 s/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on quant_resume_EN.pdf (1 page, 398933 bytes).
+Output written on actuary_resume_FR.pdf (1 page, 405714 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
- 186 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 158 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 194 words of extra memory for PDF output out of 10000 (max. 10000000)
 
